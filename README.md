@@ -1,1 +1,1 @@
-# TindogWebDeveloper
+# This website is prepared as exercise material for Udemy Web Developer Online Course. I prepared it alongside the course. The content idea is not mine. I showed my CSS, HTML and Bootstrap knowledge. In addition, I practise responsive websites. 
